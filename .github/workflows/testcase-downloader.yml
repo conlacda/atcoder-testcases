@@ -38,10 +38,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
-        with:
-          # need to fetch the list of branches by "git branch -a"
-          fetch-depth: 0
-
       - name: Set up Python ${{ matrix.python-version }}
         uses: actions/setup-python@v5
         with:
