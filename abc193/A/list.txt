@@ -1,0 +1,13 @@
+01_sample,7,5
+02_sample,4,22
+03_sample,12,23
+04_hand,9,9
+05_hand,13,8
+06_hand,4,5
+07_random,12,22
+08_random,12,22
+09_random,12,22
+10_random,12,22
+11_random,12,22
+12_random,12,22
+13_random,12,22
