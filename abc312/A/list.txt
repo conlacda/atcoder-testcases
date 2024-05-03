@@ -1,0 +1,14 @@
+sample00,4,3
+sample01,4,4
+sample02,4,3
+testcase00,4,4
+testcase01,4,4
+testcase02,4,4
+testcase03,4,4
+testcase04,4,4
+testcase05,4,4
+testcase06,4,3
+testcase07,4,3
+testcase08,4,3
+testcase09,4,3
+testcase10,4,3
