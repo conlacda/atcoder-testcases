@@ -17,6 +17,8 @@ with open("./crawler/dump.json") as f:
     data: dict[str, str] = json.load(f)
     branches = os.listdir(".git/refs/heads")
     print(branches)
+    output = subprocess.run(["git", "rev-parse", "--verify", "abc161"], capture_output = True)
+    print(output)
     # for contest in tqdm(data.keys()):
     #     if contest in branches:
     #         continue
