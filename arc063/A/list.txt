@@ -1,0 +1,10 @@
+sample_01,9,4
+sample_02,10,3
+sample_03,9,4
+test_01,6,3
+test_02,6,4
+test_03,6,4
+test_04,6,3
+test_05,9,3
+test_06,9,3
+test_07,10,4

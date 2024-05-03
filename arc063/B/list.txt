@@ -1,0 +1,13 @@
+dir_01,796,2
+dir_02,798,2
+random_01,795,2
+random_02,789,4
+random_03,802,5
+random_04,794,4
+sample_01,18,2
+sample_02,24,2
+sample_03,38,3
+small_01,12,2
+small_02,12,2
+small_03,18,6
+small_04,20,2

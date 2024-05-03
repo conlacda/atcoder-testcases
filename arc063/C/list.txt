@@ -1,0 +1,15 @@
+alternate_01,100001,6
+alternate_02,100001,6
+random_01,100001,6
+random_02,100001,6
+random_03,100000,6
+random_04,100001,6
+random_05,100001,6
+same_01,100001,2
+same_02,100001,2
+sample_01,6,2
+sample_02,7,2
+sample_03,11,2
+small_01,2,2
+small_02,3,2
+small_03,4,2
