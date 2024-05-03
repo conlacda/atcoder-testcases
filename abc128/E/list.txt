@@ -1,0 +1,15 @@
+killer_01,7514233,600139
+killer_02,7516456,600138
+killer_03,7894819,1680610
+killer_04,3950098,831222
+random_dense,7897714,1029032
+random_max,7901326,702878
+random_small_01,21118,3062
+random_small_02,12752,3037
+random_small_03,13905,2653
+random_small_04,14712,3059
+random_small_05,19942,2846
+random_small_06,21972,3171
+random_small_07,19128,4092
+random_small_08,13555,2750
+sample_01,45,16
