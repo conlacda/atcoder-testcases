@@ -1,0 +1,13 @@
+00_sample_00,4,6
+00_sample_01,4,6
+00_sample_02,4,6
+00_sample_03,6,6
+00_sample_04,4,6
+01_random_00,4,6
+01_random_01,4,6
+01_random_02,4,6
+01_random_03,4,6
+02_a_eq_3_00,4,6
+02_a_eq_3_01,4,6
+03_corner_00,4,6
+03_corner_01,4,6
