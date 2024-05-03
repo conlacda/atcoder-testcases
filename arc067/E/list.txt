@@ -1,0 +1,15 @@
+sample_01,10,2
+sample_02,10,4
+sample_03,19,10
+sample_04,11,2
+subtask_1_many_01,16,10
+subtask_1_many_02,17,10
+subtask_1_many_03,16,8
+subtask_1_many_04,17,10
+subtask_1_max_01,19,2
+subtask_1_max_02,19,2
+subtask_1_min_01,10,2
+subtask_1_randa_01,20,2
+subtask_1_randa_02,14,2
+subtask_1_randb_01,18,2
+subtask_1_randb_02,17,10

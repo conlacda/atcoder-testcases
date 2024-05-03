@@ -1,0 +1,10 @@
+sample_01,2,2
+sample_02,2,3
+sample_03,5,10
+subtask_1_certain_01,2,2
+subtask_1_certain_02,2,2
+subtask_1_certain_03,4,10
+subtask_1_certain_04,4,10
+subtask_1_rand_01,4,10
+subtask_1_rand_02,4,10
+subtask_1_rand_03,4,10

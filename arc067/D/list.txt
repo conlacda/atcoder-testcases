@@ -1,0 +1,15 @@
+sample_01,14,3
+sample_02,33,3
+sample_03,28,3
+subtask_1_balancedmax_01,988964,15
+subtask_1_balancedmax_02,989014,15
+subtask_1_max_01,989109,15
+subtask_1_max_02,989023,15
+subtask_1_min_01,42,10
+subtask_1_onlya_01,509802,14
+subtask_1_onlyamax_01,1000023,14
+subtask_1_onlyb_01,239526,14
+subtask_1_onlybmax_01,1000026,14
+subtask_1_rand_01,623618,15
+subtask_1_rand_02,824605,15
+subtask_1_rand_03,364059,15

@@ -1,0 +1,10 @@
+sample_01,8,2
+sample_02,10,2
+subtask_1_alld_01,88,2
+subtask_1_alldmax_01,105,2
+subtask_1_alli_01,48,3
+subtask_1_allimax_01,105,4
+subtask_1_max_01,105,2
+subtask_1_max_02,105,2
+subtask_1_rand_01,26,2
+subtask_1_rand_02,15,2
