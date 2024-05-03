@@ -1,0 +1,15 @@
+handmade03,3,13
+handmade04,4,13
+handmade05,3,13
+handmade06,2,13
+handmade07,2,13
+handmade08,3,13
+handmade09,3,13
+handmade10,3,13
+handmade11,3,13
+handmade12,3,13
+handmade13,3,13
+handmade14,3,13
+sample00,2,13
+sample01,2,13
+sample02,2,13
