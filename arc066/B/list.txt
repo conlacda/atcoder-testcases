@@ -1,0 +1,10 @@
+sample_01,18,4
+sample_02,27,9
+subtask_1_max_01,1477,800
+subtask_1_min_01,18,6
+subtask_1_rand_01,230,87
+subtask_1_rand_02,935,768
+subtask_1_rand_03,404,287
+subtask_1_rand_04,996,472
+subtask_1_rand_05,432,192
+subtask_1_rand_06,470,24

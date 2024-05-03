@@ -1,0 +1,14 @@
+sample_01,12,2
+sample_02,16,2
+sample_03,18,3
+subtask_1_invalid_01,495722,2
+subtask_1_invalid_02,94118,2
+subtask_1_max_01,588928,2
+subtask_1_max_02,588887,2
+subtask_1_max_valid_01,588897,9
+subtask_1_max_valid_02,588897,9
+subtask_1_min_valid_01,4,2
+subtask_1_rand_01,351987,2
+subtask_1_rand_02,541776,2
+subtask_1_valid_01,315788,10
+subtask_1_valid_02,112818,10
