@@ -1,0 +1,16 @@
+handmade_00,103,2
+handmade_01,203,102
+handmade_02,202,101
+random_00,51,2
+random_01,93,15
+random_02,104,69
+random_03,177,83
+random_04,2,2
+random_05,26,26
+random_06,80,80
+random_07,46,46
+random_08,60,2
+random_09,119,37
+sample_01,5,2
+sample_02,2,2
+sample_03,47,27
