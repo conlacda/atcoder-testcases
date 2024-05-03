@@ -17,9 +17,7 @@ with open("./crawler/dump.json") as f:
     data: dict[str, str] = json.load(f)
     branches = os.listdir(".git/refs/heads")
     print(branches)
-    output = subprocess.run(["git", "rev-parse", "--verify", "abc161"], capture_output = True)
-    print(output)
-    output = subprocess.run(["git", "rev-parse", "--verify", "not_exists"], capture_output = True)
+    output = subprocess.run(["git", "branch", "-r"], capture_output = True)
     print(output)
     print("end")
     # for contest in tqdm(data.keys()):
