@@ -21,6 +21,7 @@ with open("./crawler/dump.json") as f:
     print(output)
     output = subprocess.run(["git", "rev-parse", "--verify", "not_exists"], capture_output = True)
     print(output)
+    print("end")
     # for contest in tqdm(data.keys()):
     #     if contest in branches:
     #         continue
