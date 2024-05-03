@@ -1,0 +1,10 @@
+sample_01,4,2
+sample_02,5,2
+subtask_1_01,10,8
+subtask_1_02,7,2
+subtask_1_03,10,2
+subtask_1_04,10,2
+subtask_1_05,7,4
+subtask_1_06,8,6
+subtask_1_07,10,8
+subtask_1_08,8,7
