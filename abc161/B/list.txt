@@ -1,0 +1,16 @@
+hand_01,29,4
+hand_02,30,4
+hand_03,30,4
+hand_04,30,4
+hand_05,31,3
+hand_06,31,3
+max_01,407,3
+max_02,409,4
+random_01,361,4
+random_02,392,4
+random_03,367,3
+random_04,365,3
+random_05,389,4
+sample_01,12,4
+sample_02,13,3
+sample_03,43,4
