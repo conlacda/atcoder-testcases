@@ -1,0 +1,13 @@
+example_01,16,3
+example_02,19,3
+example_03,16,3
+subtask_01_01,18,3
+subtask_01_02,18,3
+subtask_01_03,17,3
+subtask_01_04,18,3
+subtask_01_05,18,3
+subtask_01_06,18,3
+subtask_01_07,18,3
+subtask_01_08,17,3
+subtask_01_09,19,3
+subtask_01_10,18,3
