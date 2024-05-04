@@ -1,0 +1,15 @@
+sub1_in01,4,4
+sub1_in02,5,5
+sub1_in03,5,5
+sub1_in04,5,5
+sub2_in01,4,4
+sub2_in02,4,4
+sub2_in03,4,4
+sub2_in04,4,4
+sub3_in01,6,6
+sub3_in02,6,6
+sub3_in03,6,6
+sub3_in04,6,6
+sub3_in05,5,5
+sub3_in06,5,5
+sub3_in07,6,6
