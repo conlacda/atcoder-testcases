@@ -1,0 +1,14 @@
+sample_01,8,3
+sample_02,10,3
+sample_03,25,4
+sub1_in01,8,3
+sub1_in02,8,3
+sub1_in03,9,4
+sub1_in04,10,5
+sub2_in01,299,4
+sub2_in02,297,5
+sub2_in03,294,4
+sub2_in04,301,5
+sub2_in05,10,4
+sub2_in06,10,3
+sub2_in07,404,6
