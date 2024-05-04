@@ -1,0 +1,15 @@
+max_00,18,18
+max_01,14,22
+max_02,10,18
+max_03,14,18
+max_04,6,18
+random_00,14,18
+random_01,10,18
+random_02,14,18
+random_03,11,19
+random_04,15,18
+random_05,11,19
+random_06,15,18
+random_07,10,19
+sample_00,6,18
+sample_01,6,18
