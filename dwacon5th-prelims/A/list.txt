@@ -1,0 +1,15 @@
+00_challenge_01,10,2
+00_sample_01,8,2
+00_sample_02,10,2
+challenge_01,350,2
+challenge_02,349,2
+challenge_03,398,2
+challenge_04,301,2
+rand_01,67,2
+rand_02,35,2
+rand_03,33,2
+rand_04,63,2
+rand_pm1_01,291,2
+rand_pm1_02,267,2
+rand_pm1_03,285,2
+rand_pm1_04,109,2
