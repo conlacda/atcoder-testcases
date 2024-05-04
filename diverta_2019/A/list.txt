@@ -1,0 +1,9 @@
+rand_01,4,2
+rand_02,6,2
+rand_03,5,3
+rand_04,4,2
+rand_05,5,3
+rand_06,4,2
+rand_07,6,3
+sample_01,4,2
+sample_02,5,3
