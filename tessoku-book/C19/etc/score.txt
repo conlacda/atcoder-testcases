@@ -1,0 +1,3 @@
+Sample (0): sample_*
+Subtask1 (500): sample_*, corner_*, sub1_*
+Subtask2 (500): *

@@ -1,0 +1,16 @@
+15
+B prefixsum
+B binsearch
+A dp
+B math
+C
+D
+C
+D
+B heuristics
+B ds
+B graph
+C
+D
+C
+D

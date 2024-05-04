@@ -1,0 +1,2 @@
+Sample (0): sample*
+All (1000): *
