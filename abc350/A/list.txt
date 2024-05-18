@@ -1,0 +1,10 @@
+random_01,8,4
+random_02,8,4
+random_03,8,5
+random_04,8,4
+random_05,8,5
+random_06,8,4
+random_07,8,5
+sample_01,8,5
+sample_02,8,4
+sample_03,8,4
