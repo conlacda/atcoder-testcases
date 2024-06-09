@@ -1,11 +1,16 @@
-name: Download testcase
+name: Download test case
 #on: workflow_dispatch
 
 on:
   workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
+    - cron: "0 6 * * *"
+    - cron: "0 9 * * *"
     - cron: "0 12 * * *"
+    - cron: "0 15 * * *"
+    - cron: "0 18 * * *"
+    - cron: "0 21 * * *"
 
 jobs:
   crawl:
