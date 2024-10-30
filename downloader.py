@@ -13,11 +13,23 @@ def download(url, fileName):
         file.write(response.content)
 
 
+def get_git_branches():
+    # Dont use git branch -a because it will get list of branches on local. git ls-remote origin will fetch from the original source from the internet.
+    result = subprocess.run(['git', 'ls-remote', 'origin', '--quiet'], capture_output=True, text=True)
+    branches = []
+    for line in result.stdout.splitlines():
+        print(line)
+        if 'refs/heads' in line:
+            branch_name = line.strip().split('\t')[-1].replace('refs/heads/', '').replace('"', '')
+                branches.append(branch_name)
+    
+    return branches
+
+
 with open("./crawler/dump.json") as f:
     data: dict[str, str] = json.load(f)
     # Dont use git branch -a because it will get list of branches on local. git ls-remote origin will fetch from the original source from the internet.
-    output = subprocess.run(["git", "ls-remote", "origin"], capture_output = True)
-    branches = str(output.stdout)
+    branches = get_git_branches()
     for contest in tqdm(data.keys()):
         if contest in branches:
             continue
