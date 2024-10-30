@@ -1,0 +1,14 @@
+random_01,1028292,29
+random_02,491483,29
+random_03,1028518,29
+random_04,217175,28
+random_05,4155592,37
+random_06,552975,36
+random_07,4155793,37
+random_08,110962,35
+random_09,6,2
+random_10,6,23
+random_11,4600007,37
+sample_01,11,23
+sample_02,90,28
+sample_03,77,29
