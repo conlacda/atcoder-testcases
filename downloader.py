@@ -19,6 +19,7 @@ def get_git_branches():
     
     branches = []
     for line in result.stdout.splitlines():
+        print(line)
         if 'refs/heads' in line:
             branch_name = line.strip().split('\t')[-1].replace('refs/heads/', '').replace('"', '')
             branches.append(branch_name)
