@@ -13,12 +13,24 @@ def download(url, fileName):
         file.write(response.content)
 
 
+def get_git_branches(remote='origin'):
+    result = subprocess.run(['git', 'ls-remote', '--heads', remote], capture_output=True, text=True)
+    
+    branches = []
+    for line in result.stdout.splitlines():
+        if line:
+            branch_name = line.split('\t')[1]
+            branch_name = branch_name.replace('refs/heads/', '')
+            branches.append(branch_name)
+    
+    return branches
+
+
 with open("./crawler/dump.json") as f:
     data: dict[str, str] = json.load(f) # data[contest_name] = link-to-download
     # Dont use git branch -a because it will get list of branches on local. git ls-remote origin will fetch from the original source from the internet.
     result = subprocess.run(["git", "branch", "-r"], stdout=subprocess.PIPE, text=True)
-    branches = [branch.strip() for branch in result.stdout.split('\n') if branch]
-    branches = [branch.replace('origin/', '') for branch in branches]
+    branches = get_git_branches()
 
     print(branches)
     # # Download testcases
