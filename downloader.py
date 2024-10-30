@@ -15,14 +15,12 @@ def download(url, fileName):
 
 def get_git_branches():
     # Dont use git branch -a because it will get list of branches on local. git ls-remote origin will fetch from the original source from the internet.
-    subprocess.run(['git', 'remote', 'update'])
-    result = subprocess.run(['git', 'for-each-ref', '--sort=creatordate', '--format="%(refname)"', 'refs/heads/'], capture_output=True, text=True)
+    result = subprocess.run(['git', 'ls-remote', '--sort=committerdate', '--quiet'], capture_output=True, text=True)
     
     branches = []
     for line in result.stdout.splitlines():
-        if line:
-            print(line)
-            branch_name = line.strip().replace('refs/heads/', '').replace('"', '')
+        if 'refs/heads' in line:
+            branch_name = line.strip().split('\t')[-1].replace('refs/heads/', '').replace('"', '')
             branches.append(branch_name)
     
     return branches
