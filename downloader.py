@@ -14,10 +14,13 @@ def download(url, fileName):
 
 
 with open("./crawler/dump.json") as f:
-    data: dict[str, str] = json.load(f)
+    data: dict[str, str] = json.load(f) # data[contest_name] = link-to-download
     # Dont use git branch -a because it will get list of branches on local. git ls-remote origin will fetch from the original source from the internet.
-    output = subprocess.run(["git", "ls-remote", "origin"], capture_output = True)
-    branches = str(output.stdout)
+    result = subprocess.run(["git", "branch", "-r"], , stdout=subprocess.PIPE, text=True)
+    branches = [branch.strip() for branch in result.stdout.split('\n') if branch]
+    branches = [branch.replace('origin/', '') for branch in branches]
+
+    # Download testcases
     for contest in tqdm(data.keys()):
         if contest in branches:
             continue
