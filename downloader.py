@@ -26,8 +26,7 @@ def get_git_branches():
     return branches
 
 def delete_branch(branch_name: str):
-    subprocess.run(['git', 'branch', '-D', branch_name])
-    subprocess.run(['git', 'push', 'origin', '–d', branch_name])
+    subprocess.run(['git', 'push', 'origin', '--delete', branch_name])
 
 
 with open("./crawler/dump.json") as f:
