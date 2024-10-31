@@ -1,0 +1,13 @@
+min,4,2
+random_01,104,103
+random_02,55,53
+random_03,106,111
+random_04,106,102
+random_05,106,105
+random_06,106,107
+random_07,107,106
+random_08,64,66
+random_09,118,115
+random_10,23,20
+sample_01,8,6
+sample_02,105,106
