@@ -25,9 +25,6 @@ def get_git_branches():
     
     return branches
 
-def delete_branch(branch_name: str):
-    subprocess.run(['git', 'push', 'origin', '--delete', branch_name])
-
 
 with open("./crawler/dump.json") as f:
     data: dict[str, str] = json.load(f)
@@ -39,7 +36,6 @@ with open("./crawler/dump.json") as f:
     for i in range(3):
         abrgcBranches = list(filter(lambda branch: branch.startswith('abc') or branch.startswith('arc') or branch.startswith('agc'), branches))
         randomBranch = random.choice(abrgcBranches)
-        delete_branch(randomBranch)
         branches.remove(randomBranch)
     
     # Download missing testcases
@@ -54,6 +50,7 @@ with open("./crawler/dump.json") as f:
         shutil.unpack_archive(f"{contest}.zip", f"{contest}/")
         os.remove(f"{contest}.zip")
         subprocess.run(["python", "generate-list.py", contest])
+        subprocess.run(['git', 'push', 'origin', '--delete', contest])
         subprocess.run(["git", "checkout", "-b", contest])
         subprocess.run(["git", "add", "."])
         subprocess.run(["git", "commit", "-m", f"add {contest}"])
