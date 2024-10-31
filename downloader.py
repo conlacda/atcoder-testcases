@@ -33,7 +33,7 @@ with open("./crawler/dump.json") as f:
 
     # Remove some random branches to prevent incomplete data (it should be newest branches but can not get remote branches list then sort them by created date)
     NUMBER_OF_REMOVED_BRANCHES = 3
-    for i in range(3):
+    for i in range(NUMBER_OF_REMOVED_BRANCHES):
         abrgcBranches = list(filter(lambda branch: branch.startswith('abc') or branch.startswith('arc') or branch.startswith('agc'), branches))
         randomBranch = random.choice(abrgcBranches)
         branches.remove(randomBranch)
