@@ -1,0 +1,11 @@
+example_00,3,3
+example_01,3,2
+example_02,2,3
+example_03,4,7
+rand_00,3,3
+rand_01,3,3
+rand_02,3,7
+rand_03,3,2
+rand_04,3,2
+rand_05,3,2
+rand_06,3,3
