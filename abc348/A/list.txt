@@ -1,0 +1,15 @@
+00_sample_00,2,8
+00_sample_01,2,10
+01_random_00,3,18
+01_random_01,3,29
+01_random_02,3,22
+01_random_03,3,11
+01_random_04,3,28
+01_random_05,3,54
+01_random_06,3,87
+01_random_07,2,3
+01_random_08,3,60
+01_random_09,3,100
+02_hand_00,2,2
+02_hand_01,4,101
+02_hand_02,3,100
