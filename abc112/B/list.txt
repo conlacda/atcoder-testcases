@@ -1,0 +1,13 @@
+hand_1,13,5
+sample_01,20,2
+sample_02,28,4
+sample_03,32,2
+testcase_1,180,4
+testcase_2,790,3
+testcase_3,629,4
+testcase_4,94,4
+testcase_5,792,4
+testcase_6,783,4
+testcase_7,793,3
+testcase_8,791,4
+testcase_9,14,4
