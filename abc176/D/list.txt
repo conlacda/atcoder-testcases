@@ -1,0 +1,15 @@
+hand_01,24,2
+hand_02,15,2
+max_01,1000020,7
+random_01,1001024,3
+random_02,96512,4
+random_03,1001024,4
+random_04,101117,3
+random_05,1001024,3
+random_06,307707,3
+random_11,2018,4
+random_12,1019,4
+sample_01,32,2
+sample_02,32,3
+sample_03,32,2
+sample_04,36,2

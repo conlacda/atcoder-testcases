@@ -1,0 +1,14 @@
+hand_01,2,3
+random_01,200001,3
+random_02,988,3
+random_03,40481,3
+random_04,2369,3
+random_05,200001,4
+random_06,115188,4
+random_07,24987,4
+random_08,45885,4
+random_09,200001,3
+random_10,200001,4
+sample_01,10,4
+sample_02,2,4
+sample_03,87,3
