@@ -1,0 +1,12 @@
+max,10,6
+min,7,5
+random_01,7,5
+random_02,7,5
+random_03,8,5
+random_04,8,5
+random_05,9,6
+random_06,8,6
+random_07,9,6
+random_08,8,6
+sample_01,6,4
+sample_02,7,5
