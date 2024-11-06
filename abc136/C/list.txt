@@ -1,0 +1,17 @@
+sample_01,12,4
+sample_02,10,3
+sample_03,12,4
+sample_04,13,4
+testcase_01,598551,3
+testcase_02,989056,3
+testcase_03,958937,4
+testcase_04,1024085,4
+testcase_05,300675,3
+testcase_06,433963,3
+testcase_07,1024048,3
+testcase_08,577803,4
+testcase_09,577807,3
+testcase_10,988889,3
+testcase_11,988798,4
+testcase_12,4,4
+testcase_13,1100007,4
