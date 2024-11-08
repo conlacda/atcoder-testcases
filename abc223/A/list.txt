@@ -1,0 +1,14 @@
+case_00,5,4
+case_01,4,4
+case_02,4,4
+case_03,4,4
+case_04,4,3
+case_05,4,3
+case_06,3,3
+case_07,3,3
+case_08,2,3
+case_09,4,3
+case_10,4,3
+sample_00,4,4
+sample_01,3,3
+sample_02,2,3

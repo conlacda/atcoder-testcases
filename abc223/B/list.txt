@@ -1,0 +1,15 @@
+example_00,5,10
+example_01,2,4
+example_02,12,24
+handmade_00,11,22
+handmade_01,11,22
+handmade_02,11,22
+test_00,1001,2002
+test_01,739,1478
+test_02,711,1422
+test_03,155,310
+test_04,559,1118
+test_05,45,90
+test_06,1001,2002
+test_07,324,648
+test_08,351,702
