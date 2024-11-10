@@ -1,0 +1,16 @@
+dots,100008,6
+dots_2,98773,6
+random,84363,10
+random_10,80160,10
+random_11,98012,10
+random_12,80997,10
+random_2,89916,10
+random_3,94773,10
+random_4,95076,10
+random_5,88132,10
+random_6,95243,10
+random_7,81480,10
+random_8,96131,9
+random_9,82169,10
+sample1,8,2
+sample2,24,10
