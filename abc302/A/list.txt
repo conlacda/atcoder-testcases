@@ -1,0 +1,15 @@
+example_00,4,2
+example_01,29,10
+example_02,21,19
+test_00,21,19
+test_01,21,18
+test_02,21,19
+test_03,23,9
+test_04,31,6
+test_05,9,3
+test_06,38,2
+test_07,38,2
+test_08,37,3
+test_09,29,10
+test_10,29,10
+test_11,29,10
