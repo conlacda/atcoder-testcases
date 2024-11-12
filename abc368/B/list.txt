@@ -1,0 +1,15 @@
+00_sample_00,10,2
+00_sample_01,10,2
+01_internal_00,135,5
+01_internal_01,271,5
+01_internal_02,131,5
+01_internal_03,296,5
+01_internal_04,289,5
+01_internal_05,297,5
+01_internal_06,312,5
+01_internal_07,307,5
+01_internal_08,312,5
+01_internal_09,404,5
+01_internal_10,206,3
+01_internal_11,6,2
+01_internal_12,8,2
