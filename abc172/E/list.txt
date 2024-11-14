@@ -1,0 +1,12 @@
+handmade03,4,2
+handmade04,9,10
+handmade05,9,10
+handmade06,9,10
+handmade07,14,10
+random08,14,10
+random09,14,10
+random10,14,10
+random11,13,10
+sample00,4,2
+sample01,4,3
+sample02,14,10
