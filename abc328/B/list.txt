@@ -1,0 +1,15 @@
+00_sample_00,39,3
+00_sample_01,26,2
+00_sample_02,89,3
+01_random_03,296,3
+01_random_04,296,3
+01_random_05,293,3
+01_random_06,298,3
+01_random_07,72,3
+01_random_08,226,3
+01_random_09,167,3
+01_random_10,209,3
+02_handmade_11,4,2
+02_handmade_12,6,2
+02_handmade_13,204,2
+02_handmade_14,404,3
