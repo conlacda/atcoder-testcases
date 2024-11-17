@@ -1,0 +1,9 @@
+random_01,17,5
+random_02,13,5
+random_03,16,5
+random_04,14,5
+random_05,12,5
+random_06,17,7
+sample_01,8,3
+sample_02,9,2
+sample_03,16,2
