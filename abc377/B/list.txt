@@ -1,0 +1,17 @@
+00_sample_00,72,2
+00_sample_01,72,3
+00_sample_02,72,2
+01_random_03,72,2
+01_random_04,72,2
+01_random_05,72,2
+01_random_06,72,3
+01_random_07,72,3
+01_random_08,72,3
+01_random_09,72,3
+01_random_10,72,2
+01_random_11,72,3
+01_random_12,72,3
+01_random_13,72,3
+01_random_14,72,3
+01_random_15,72,3
+01_random_16,72,2
