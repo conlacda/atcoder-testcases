@@ -1,0 +1,10 @@
+example_00,9,5
+example_01,10,10
+example_02,10,10
+hand_00,8,10
+hand_01,12,10
+hand_02,12,5
+random_00,11,10
+random_01,9,10
+random_02,11,5
+random_03,9,5
