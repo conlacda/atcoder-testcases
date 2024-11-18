@@ -1,0 +1,14 @@
+example_00,26,16
+example_01,20,10
+example_02,17,7
+example_03,40,29
+hand_00,308,292
+hand_01,18,8
+hand_02,301,288
+hand_03,415,400
+random_00,281,266
+random_01,300,285
+random_02,295,280
+random_03,301,287
+random_04,279,264
+random_05,288,273
