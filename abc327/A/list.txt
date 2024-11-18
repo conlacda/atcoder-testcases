@@ -1,0 +1,15 @@
+00_sample_00,6,4
+00_sample_01,5,4
+00_sample_02,10,3
+01_random_00,41,3
+01_random_01,105,3
+01_random_02,16,3
+01_random_03,105,3
+01_random_04,15,4
+01_random_05,105,3
+01_random_06,41,3
+01_random_07,105,4
+02_corner_00,105,3
+02_corner_01,105,4
+02_corner_02,105,4
+02_corner_03,105,4
