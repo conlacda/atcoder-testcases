@@ -1,0 +1,10 @@
+sample_01,7,5
+sample_02,8,5
+testcase_0,7,5
+testcase_1,9,5
+testcase_2,7,5
+testcase_3,8,5
+testcase_4,8,5
+testcase_5,5,2
+testcase_6,7,5
+testcase_7,7,5
