@@ -1,0 +1,17 @@
+hand1,20,7
+hand2,20,4
+max1,687,4
+max2,689,7
+max3,685,4
+max4,684,4
+max5,684,4
+max7,689,4
+max8,688,4
+normal1,153,4
+normal2,195,4
+normal3,281,7
+normal4,431,4
+normal5,496,7
+sample_01,24,7
+sample_02,34,4
+sample_03,32,4
