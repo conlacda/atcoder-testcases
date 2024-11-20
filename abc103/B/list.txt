@@ -1,0 +1,14 @@
+0_small_0,6,4
+0_small_1,20,3
+0_small_2,22,4
+0_small_3,20,3
+1_medium_0,146,3
+1_medium_1,112,4
+1_medium_2,98,3
+2_max_0,202,3
+2_max_1,202,4
+2_max_2,202,3
+2_max_3,202,4
+sample_01,12,4
+sample_02,8,3
+sample_03,34,4
