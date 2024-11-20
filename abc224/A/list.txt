@@ -1,0 +1,14 @@
+hand_01,6,3
+hand_02,6,4
+sample_01,8,3
+sample_02,8,4
+sample_03,3,3
+test_01,4,4
+test_02,11,3
+test_03,7,4
+test_04,8,3
+test_05,7,4
+test_06,9,3
+test_07,11,4
+test_08,21,3
+test_09,21,4
