@@ -1,0 +1,11 @@
+00_sample_00,3,7
+00_sample_01,3,7
+00_sample_02,2,7
+00_sample_03,3,7
+01_border_00,3,7
+01_border_01,3,7
+02_max_00,3,7
+03_one_digit_00,2,7
+03_one_digit_01,2,7
+04_random_00,3,7
+04_random_01,3,7

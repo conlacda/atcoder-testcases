@@ -1,0 +1,16 @@
+00_sample_00,9,4
+00_sample_01,9,3
+00_sample_02,3,4
+01_max_yes_00,11,4
+01_max_yes_01,11,4
+01_max_yes_02,11,4
+02_no_00,8,3
+02_no_01,11,3
+02_no_02,8,3
+02_no_03,9,3
+03_one_letter_00,2,4
+03_one_letter_01,2,4
+04_two_letter_00,3,4
+04_two_letter_01,3,4
+05_killer_T_00,3,3
+05_killer_T_01,4,3
