@@ -1,0 +1,11 @@
+0_normal_1,4,2
+0_normal_2,5,3
+0_normal_3,5,3
+0_normal_4,4,2
+1_hand_1,5,3
+1_hand_2,5,3
+1_hand_3,6,3
+1_hand_4,6,2
+sample_01,5,3
+sample_02,5,3
+sample_03,4,2
