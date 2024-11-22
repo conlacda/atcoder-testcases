@@ -1,0 +1,16 @@
+00_sample_00,12,2
+00_sample_01,12,2
+00_sample_02,15,4
+00_sample_03,18,6
+01_random_00,17,5
+01_random_01,17,5
+01_random_02,16,3
+01_random_03,16,4
+01_random_04,18,5
+01_random_05,17,2
+01_random_06,16,2
+02_max_00,18,6
+03_min_00,12,2
+04_near_max_00,18,6
+04_near_max_01,18,6
+04_near_max_02,18,6
