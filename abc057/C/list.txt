@@ -1,0 +1,15 @@
+sample_01,6,2
+sample_02,8,2
+sample_03,11,2
+subtask_1_1,2,2
+subtask_1_10,11,2
+subtask_1_11,9,2
+subtask_1_12,10,2
+subtask_1_2,4,2
+subtask_1_3,12,2
+subtask_1_4,11,2
+subtask_1_5,11,2
+subtask_1_6,11,2
+subtask_1_7,11,2
+subtask_1_8,11,2
+subtask_1_9,11,3

@@ -1,0 +1,10 @@
+sample_01,21,4
+sample_02,38,6
+sample_03,180,10
+subtask_1_1,1046,42
+subtask_1_2,1379,125
+subtask_1_3,757,65
+subtask_1_4,416,38
+subtask_1_5,962,100
+subtask_1_6,958,3
+subtask_1_7,1874,146

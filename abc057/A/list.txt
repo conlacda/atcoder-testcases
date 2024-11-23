@@ -1,0 +1,10 @@
+sample_01,5,3
+sample_02,5,3
+sample_03,5,2
+subtask_1_1,5,3
+subtask_1_2,5,3
+subtask_1_3,5,2
+subtask_1_4,4,2
+subtask_1_5,5,2
+subtask_1_6,5,3
+subtask_1_7,6,3
