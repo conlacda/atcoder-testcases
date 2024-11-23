@@ -1,0 +1,17 @@
+fault_01,3,3
+fault_02,3,3
+fault_03,3,3
+fault_04,28,28
+fault_05,3,3
+fault_06,19,19
+fault_07,98,98
+fault_08,102,102
+fault_09,102,102
+fault_10,19,19
+fault_11,99,99
+fault_12,102,102
+fault_13,79,79
+fault_14,102,102
+sample_01,9,9
+sample_02,6,6
+sample_03,6,6
