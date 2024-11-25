@@ -1,0 +1,16 @@
+max_ans,10,5
+max_range,22,2
+max_val,13,2
+min_diff_01,22,2
+min_diff_02,22,3
+min_diff_03,22,3
+min_diff_04,22,2
+min_diff_05,22,4
+one_01,22,2
+one_02,22,2
+random_max_01,21,2
+random_max_02,20,2
+sample_01,10,2
+sample_02,4,3
+stride_zero_01,21,2
+stride_zero_02,22,2
