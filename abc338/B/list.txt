@@ -1,0 +1,11 @@
+01-sample,10,2
+02-sample,8,2
+03-sample,31,2
+04-hidden,2,2
+05-hidden,3,2
+06-hidden,1001,2
+07-hidden,1001,2
+08-hidden,1000,2
+09-hidden,989,2
+10-hidden,973,2
+11-hidden,1000,2
