@@ -1,0 +1,14 @@
+ansno0,17,3
+ansno1,15,3
+ansno2,8,3
+ansno3,8,3
+ansno4,16,3
+ansyes0,13,4
+ansyes1,15,4
+ansyes2,22,4
+ansyes3,14,4
+ansyes4,24,4
+example0,18,4
+example1,21,3
+example2,6,4
+example3,33,3

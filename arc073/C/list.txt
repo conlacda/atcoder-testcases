@@ -1,0 +1,13 @@
+example0,8,2
+example1,8,2
+example2,39,11
+example3,6,2
+example4,33,3
+maxrand0,2000010,11
+maxrand1,2000004,7
+maxrand2,2000001,7
+rand0,4793,6
+rand1,4358,6
+rand2,4192,6
+rand3,4977,7
+rand4,129,5

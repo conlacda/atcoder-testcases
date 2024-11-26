@@ -1,0 +1,16 @@
+antigreedy0,1715,10
+antigreedy1,1715,10
+antigreedy2,1715,10
+example0,21,3
+example1,21,3
+example2,29,4
+example3,32,2
+quarter0,1109,10
+quarter1,1209,10
+quarter2,1109,10
+rand0,119,2
+rand1,901,2
+rand2,479,8
+smallw0,1194,8
+smallw1,1198,8
+smallw2,1097,9
