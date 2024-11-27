@@ -1,0 +1,12 @@
+example_01,9,4
+example_02,6,3
+subtask1_01,27,3
+subtask1_02,53,4
+subtask1_03,2,3
+subtask1_04,101,4
+subtask1_05,101,3
+subtask1_06,99,4
+subtask1_07,101,3
+subtask1_08,97,4
+subtask1_09,73,3
+subtask1_10,84,3
