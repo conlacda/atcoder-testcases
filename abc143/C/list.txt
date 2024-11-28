@@ -1,0 +1,15 @@
+handmade03,100008,2
+handmade04,100008,7
+handmade05,100008,6
+handmade06,4,2
+handmade07,100008,7
+random08,96822,6
+random09,91868,6
+random10,97241,6
+random11,96992,5
+random12,96467,4
+random13,95284,3
+random14,99805,3
+sample00,14,2
+sample01,8,2
+sample02,24,3
