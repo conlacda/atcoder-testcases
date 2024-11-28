@@ -1,0 +1,12 @@
+00_sample_01,5,2
+00_sample_02,5,2
+00_sample_03,5,2
+00_sample_04,6,3
+00_sample_05,5,2
+hand,6,4
+max,9,5
+rand_01,7,5
+rand_02,7,5
+rand_03,7,5
+rand_04,6,3
+rand_05,7,4
