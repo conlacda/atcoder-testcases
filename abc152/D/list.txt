@@ -1,0 +1,15 @@
+large_01,8,10
+large_02,8,10
+large_03,8,10
+large_04,8,10
+large_05,8,10
+sample_01,4,3
+sample_02,3,2
+sample_03,5,4
+sample_04,6,6
+sample_05,8,10
+small_01,6,6
+small_02,6,6
+small_03,6,6
+small_04,6,6
+small_05,6,6
