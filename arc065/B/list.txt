@@ -1,0 +1,13 @@
+subtask0_0,10,12
+subtask0_1,9,10
+subtask0_2,194,378
+subtask1_0,9126,18240
+subtask1_1,8794,17574
+subtask1_2,10006,19998
+subtask1_3,8916,17820
+subtask1_4,8421,16830
+subtask1_5,8469,16926
+subtask1_6,10108,20200
+subtask1_7,9120,18228
+subtask1_8,8748,17484
+subtask1_9,8655,17298

@@ -1,0 +1,10 @@
+subtask0_0,2,6
+subtask0_1,2,10
+subtask0_2,2,10
+subtask1_0,2,6
+subtask1_1,2,10
+subtask1_2,2,10
+subtask1_3,2,10
+subtask1_4,2,6
+subtask1_5,2,6
+subtask1_6,2,6
