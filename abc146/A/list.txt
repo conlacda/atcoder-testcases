@@ -1,0 +1,7 @@
+FRI,4,2
+MON,4,2
+THU,4,2
+TUE,4,2
+WED,4,2
+sample_SAT,4,2
+sample_SUN,4,2

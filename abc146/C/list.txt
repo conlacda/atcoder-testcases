@@ -1,0 +1,16 @@
+border01,39,10
+border02,39,10
+border03,25,10
+corner01,42,10
+max01,39,10
+max02,39,11
+max03,39,11
+min01,29,2
+min02,31,2
+rnd01,38,10
+rnd02,39,10
+rnd03,24,10
+sample01,9,2
+sample02,17,11
+sample03,26,2
+sample04,21,7
