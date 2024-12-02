@@ -1,0 +1,10 @@
+max_00,8,3
+min_00,2,2
+random_00,8,3
+random_01,8,3
+random_02,8,3
+random_03,8,3
+random_04,8,3
+sample_00,2,2
+sample_01,4,3
+sample_02,9,3

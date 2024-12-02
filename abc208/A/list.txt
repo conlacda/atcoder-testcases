@@ -1,0 +1,9 @@
+bound_00,6,3
+bound_01,6,4
+bound_02,8,4
+bound_03,7,3
+random_00,5,3
+random_01,7,3
+sample_00,5,3
+sample_01,5,4
+sample_02,8,4
