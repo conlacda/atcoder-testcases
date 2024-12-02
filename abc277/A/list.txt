@@ -1,0 +1,10 @@
+example0,12,2
+example1,14,2
+example2,16,2
+testcase0,264,3
+testcase1,203,3
+testcase2,270,3
+testcase3,245,3
+testcase4,243,3
+testcase5,6,2
+testcase6,299,4
