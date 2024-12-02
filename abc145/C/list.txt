@@ -1,0 +1,15 @@
+handmade03,54,16
+handmade04,77,16
+handmade05,76,17
+random06,20,16
+random07,28,16
+random08,40,16
+random09,44,16
+random10,54,16
+random11,61,16
+random12,71,16
+random13,73,16
+random14,74,16
+sample00,14,13
+sample01,20,14
+sample02,69,16
