@@ -1,0 +1,17 @@
+hand_01,2,4
+hand_02,4,2
+hand_03,5,4
+hand_04,5,2
+hand_05,6,2
+random_01,4,4
+random_02,5,4
+random_03,5,4
+random_04,5,4
+random_05,5,4
+random_06,3,4
+random_07,5,4
+random_08,4,4
+random_09,5,4
+random_10,5,4
+sample_01,5,4
+sample_02,5,2
