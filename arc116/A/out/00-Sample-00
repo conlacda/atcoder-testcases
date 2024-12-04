@@ -1,0 +1,3 @@
+Same
+Odd
+Even
