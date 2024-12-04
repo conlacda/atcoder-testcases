@@ -1,0 +1,10 @@
+example_00,3,4
+example_01,12,3
+example_02,16,3
+hand_00,21,3
+hand_01,20,3
+hand_02,12,4
+hand_03,11,4
+hand_04,12,3
+hand_05,11,3
+hand_06,2,4
