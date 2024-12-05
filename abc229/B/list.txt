@@ -1,0 +1,13 @@
+sample_01,8,5
+sample_02,21,5
+test_01,4,5
+test_02,4,5
+test_03,40,5
+test_04,21,5
+test_05,18,5
+test_06,38,5
+test_07,28,5
+test_08,37,5
+test_09,38,5
+test_10,38,5
+test_11,37,5
