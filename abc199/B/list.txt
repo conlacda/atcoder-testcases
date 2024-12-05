@@ -1,0 +1,16 @@
+extreme_00,704,5
+extreme_01,604,2
+extreme_02,704,2
+manual_00,6,2
+manual_01,9,5
+random_00,775,2
+random_01,727,3
+random_02,781,2
+random_03,792,2
+random_04,410,2
+random_05,589,3
+random_06,701,2
+random_07,104,3
+sample_01,10,2
+sample_02,15,2
+sample_03,14,2
