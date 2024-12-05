@@ -1,0 +1,13 @@
+hand_01,8,2
+random_01,8,3
+random_02,8,3
+random_03,8,3
+random_04,8,3
+random_05,8,3
+random_06,8,3
+random_07,8,3
+random_08,8,3
+random_09,8,2
+sample_01,8,2
+sample_02,8,3
+sample_03,8,3
