@@ -1,0 +1,17 @@
+example_0,26,2
+example_1,26,2
+example_2,18,2
+example_3,42,2
+example_4,42,2
+line_0,451,3
+line_1,1287,2
+line_2,511,2
+line_3,343,2
+maxrand_0,1335,3
+maxrand_1,1271,3
+maxrand_2,1384,3
+maxrand_3,1384,3
+maxrand_4,1287,3
+rand_0,1319,3
+rand_1,663,3
+rand_2,871,3
