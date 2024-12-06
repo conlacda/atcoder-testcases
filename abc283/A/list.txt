@@ -1,0 +1,10 @@
+example0,4,3
+example1,4,5
+example2,4,2
+hand0,4,2
+hand1,4,2
+hand2,4,7
+hand3,4,4
+hand4,4,5
+max0,4,10
+min0,4,2
