@@ -1,0 +1,9 @@
+sample00,4,6
+sample01,8,14
+sample02,7,12
+testcase00,14,26
+testcase01,40,78
+testcase02,10,18
+testcase03,57,112
+testcase04,48,94
+testcase05,18,34
