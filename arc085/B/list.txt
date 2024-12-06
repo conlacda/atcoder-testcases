@@ -1,0 +1,17 @@
+example_0,7,2
+example_1,7,2
+example_2,11,6
+example_3,14,4
+example_4,14,4
+rand_0,10,6
+rand_1,11,4
+rand_10,16,2
+rand_11,18,2
+rand_2,16,2
+rand_3,12,4
+rand_4,16,2
+rand_5,18,2
+rand_6,9,5
+rand_7,12,4
+rand_8,16,2
+rand_9,12,4
