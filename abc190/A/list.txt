@@ -1,0 +1,14 @@
+01_sample,6,10
+02_sample,6,5
+03_sample,6,10
+04_random,8,10
+05_random,8,10
+06_random,8,5
+07_random,8,10
+08_random,8,5
+09_random,8,5
+10_random,7,10
+11_random,7,10
+12_random,8,5
+13_random,6,5
+14_random,6,10
