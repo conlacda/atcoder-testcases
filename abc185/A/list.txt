@@ -1,0 +1,8 @@
+handmade_00,8,2
+handmade_01,16,4
+random_00,13,3
+random_01,12,3
+random_02,12,3
+random_03,12,3
+sample_01,9,2
+sample_02,14,2
