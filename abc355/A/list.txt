@@ -1,0 +1,12 @@
+00_sample_00,4,2
+00_sample_01,4,3
+00_sample_02,4,2
+01_random_00,4,3
+01_random_01,4,2
+01_random_02,4,3
+01_random_03,4,2
+01_random_04,4,2
+01_random_05,4,2
+01_random_06,4,2
+01_random_07,4,2
+01_random_08,4,3
