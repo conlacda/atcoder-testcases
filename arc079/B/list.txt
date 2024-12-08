@@ -1,0 +1,17 @@
+example0,2,2
+example1,3,3
+example2,2,2
+example3,4,3
+handmade0,3,3
+handmade1,3,3
+handmade2,3,3
+rand0,3,3
+rand1,3,3
+rand2,3,3
+rand3,2,2
+rand4,3,3
+rand5,3,3
+rand6,3,3
+rand7,3,3
+rand8,3,3
+rand9,3,3
