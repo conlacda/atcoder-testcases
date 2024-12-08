@@ -1,0 +1,13 @@
+example_0,12,2
+example_1,8,2
+example_2,12,2
+example_3,31,2
+handmade_0,6,2
+handmade_1,6,2
+rand_0,99,2
+rand_1,32,2
+smallcolor_0,185,3
+smallcolor_1,204,3
+smallcolor_2,191,3
+smallcolor_3,191,3
+smallcolor_4,193,3
