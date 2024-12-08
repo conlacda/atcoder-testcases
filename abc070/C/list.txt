@@ -1,0 +1,17 @@
+sample_01,6,2
+sample_02,49,20
+subtask_1_1,813,19
+subtask_1_10,1704,17
+subtask_1_11,20,17
+subtask_1_12,1048,19
+subtask_1_13,1048,19
+subtask_1_14,67,19
+subtask_1_15,36,19
+subtask_1_2,965,18
+subtask_1_3,108,19
+subtask_1_4,950,19
+subtask_1_5,362,19
+subtask_1_6,986,19
+subtask_1_7,1904,19
+subtask_1_8,21,19
+subtask_1_9,885,17
