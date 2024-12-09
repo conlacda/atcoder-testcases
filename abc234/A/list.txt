@@ -1,0 +1,14 @@
+sample_01,2,5
+sample_02,2,7
+sample_03,3,11
+test_00,2,5
+test_01,2,6
+test_02,2,7
+test_03,2,7
+test_04,2,8
+test_05,2,9
+test_06,2,9
+test_07,2,9
+test_08,2,10
+test_09,2,10
+test_10,3,11
