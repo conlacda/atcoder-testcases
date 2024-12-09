@@ -1,0 +1,12 @@
+00_sample_00,8,5
+00_sample_01,8,5
+00_sample_02,5,5
+00_sample_03,11,5
+00_sample_04,7,5
+00_sample_05,6,5
+00_sample_06,10,5
+00_sample_07,7,5
+00_sample_08,8,5
+00_sample_09,10,5
+00_sample_10,8,5
+00_sample_11,8,5

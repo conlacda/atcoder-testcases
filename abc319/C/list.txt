@@ -1,0 +1,15 @@
+00_sample_00,18,33
+00_sample_01,18,33
+00_sample_02,18,4
+01_random_03,18,33
+01_random_04,18,33
+01_random_05,18,33
+01_random_06,18,33
+01_random_07,18,33
+01_random_08,18,33
+01_random_09,18,4
+01_random_10,18,33
+01_random_11,18,4
+01_random_12,18,33
+01_random_13,18,2
+01_random_14,18,33
