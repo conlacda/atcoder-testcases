@@ -1,0 +1,14 @@
+example_00,12,4
+example_01,14,3
+example_02,8,4
+example_03,4,4
+handmade_00,3505,3
+handmade_01,3002,3
+random_00,3902,3
+random_01,3644,3
+random_02,2863,3
+random_03,3504,3
+yes_00,3898,4
+yes_01,1940,4
+yes_02,2960,4
+yes_03,448,4

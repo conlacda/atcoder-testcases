@@ -1,0 +1,11 @@
+example_00,7,3
+example_01,7,6
+example_02,7,2
+example_03,5,2
+max_00,10,6
+test_00,8,7
+test_01,8,7
+test_02,8,7
+test_03,8,5
+test_04,7,4
+test_05,8,5
