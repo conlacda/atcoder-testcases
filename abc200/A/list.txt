@@ -1,0 +1,17 @@
+sample_01,5,3
+sample_02,4,2
+test_01,5,3
+test_02,5,3
+test_03,4,2
+test_04,4,2
+test_05,5,3
+test_06,4,2
+test_07,5,3
+test_08,5,3
+test_09,5,3
+test_10,5,3
+test_11,5,3
+test_12,5,3
+test_13,5,3
+test_14,5,3
+test_15,2,2
