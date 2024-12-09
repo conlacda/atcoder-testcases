@@ -1,0 +1,14 @@
+00_sample_00,27,2
+00_sample_01,12,2
+00_sample_02,138,2
+01_random_03,504,2
+01_random_04,1004,4
+01_random_05,238,2
+01_random_06,173,2
+01_random_07,774,3
+01_random_08,669,3
+01_random_09,514,2
+01_random_10,57,2
+01_random_11,463,3
+01_random_12,7,2
+01_random_13,12,2
