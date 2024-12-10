@@ -1,0 +1,10 @@
+00_sample_01,6,2
+00_sample_02,7,2
+00_sample_03,12,2
+01_random_01,23,2
+01_random_02,20,2
+01_random_03,30,2
+01_random_04,30,2
+02_max_01,15,3
+03_handmade_01,31,2
+04_hack_log_01,14,3
