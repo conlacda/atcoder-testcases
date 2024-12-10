@@ -1,0 +1,13 @@
+random_01,14,5
+random_02,8,4
+random_03,102,6
+random_04,49,6
+random_05,7,5
+random_06,71,6
+random_07,36425,16
+random_08,420864,17
+random_09,613369,17
+random_10,1000007,18
+sample_01,10,3
+sample_02,24,10
+sample_03,12,13
