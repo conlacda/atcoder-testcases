@@ -1,0 +1,61 @@
+#include<stdio.h>
+#include<algorithm>
+#include<string.h>
+#include<vector>
+#include<queue>
+using namespace std;
+vector<pair<int,int> > g[110000];
+vector<pair<int,int> > G[310000];
+int v[310000];
+int ijk[310000];
+int main(){
+	int a,b;scanf("%d%d",&a,&b);
+	for(int i=0;i<b;i++){
+		int p,q,r;scanf("%d%d%d",&p,&q,&r);
+		p--;q--;
+		g[p].push_back(make_pair(r,i));
+		g[q].push_back(make_pair(r,i));
+		G[i].push_back(make_pair(b+p,0));
+		G[i].push_back(make_pair(b+q,0));
+		G[b+p].push_back(make_pair(i,1));
+		G[b+q].push_back(make_pair(i,1));
+	}
+	for(int i=0;i<a;i++){
+		if(g[i].size()==0)continue;
+		std::sort(g[i].begin(),g[i].end());
+		int st=0;
+		for(int j=0;j<g[i].size();j++){
+			if(j&&g[i][j].first!=g[i][j-1].first){
+				for(int k=st;k<j-1;k++){
+					G[g[i][k].second].push_back(make_pair(g[i][k+1].second,0));
+				}
+				G[g[i][j-1].second].push_back(make_pair(g[i][st].second,0));
+				st=j;
+			}
+		}
+		for(int k=st;k<g[i].size()-1;k++){
+			G[g[i][k].second].push_back(make_pair(g[i][k+1].second,0));
+		}
+		G[g[i][g[i].size()-1].second].push_back(make_pair(g[i][st].second,0));
+	}
+	for(int i=0;i<310000;i++)ijk[i]=999999999;
+	ijk[b]=0;
+	priority_queue<pair<int,int> > Q;
+	Q.push(make_pair(0,b));
+	while(Q.size()){
+		int cost=-Q.top().first;
+		int at=Q.top().second;
+		Q.pop();
+		if(v[at])continue;
+		v[at]=1;
+		for(int i=0;i<G[at].size();i++){
+			int to=G[at][i].first;
+			int tc=cost+G[at][i].second;
+			if(!v[to]&&ijk[to]>tc){
+				ijk[to]=tc;Q.push(make_pair(-tc,to));
+			}
+		}
+	}
+	if(ijk[b+a-1]>99999999)printf("-1\n");
+	else printf("%d\n",ijk[b+a-1]);
+}
