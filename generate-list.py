@@ -44,8 +44,9 @@ for problem in problems:
                         outf.write("Sorry, this output file is not provided.")
 
                 # file_name,input_file_size_in_bytes,output_file_size_in_bytes
-                inputSz = os.path.getsize(f"./{contest}/{problem}/in/{inFile}")
-                outputSz = os.path.getsize(f"./{contest}/{problem}/out/{outFile}")
-                commonName = inFile.split(".")[0]
-                f.write(f"{commonName},{inputSz},{outputSz}\n")
+                if os.path.exists(f"./{contest}/{problem}/in/{inFile}") and os.path.exists(f"./{contest}/{problem}/out/{outFile}"):
+                    inputSz = os.path.getsize(f"./{contest}/{problem}/in/{inFile}")
+                    outputSz = os.path.getsize(f"./{contest}/{problem}/out/{outFile}")
+                    commonName = inFile.split(".")[0]
+                    f.write(f"{commonName},{inputSz},{outputSz}\n")
             f.close()
