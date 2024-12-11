@@ -1,0 +1,14 @@
+example_00,4,3
+example_01,4,3
+hand_00,4,4
+hand_01,4,4
+hand_02,4,2
+hand_03,2,3
+hand_04,3,2
+hand_05,4,4
+hand_06,4,4
+random_00,3,3
+random_01,4,3
+random_02,4,3
+random_03,4,3
+random_04,4,3
