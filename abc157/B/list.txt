@@ -1,0 +1,16 @@
+00-sample-0,40,3
+00-sample-281,48,4
+00-sample-511,60,4
+01-random-134,54,3
+01-random-238,47,3
+01-random-292,48,4
+01-random-297,44,3
+01-random-314,45,4
+01-random-329,40,4
+01-random-352,47,3
+01-random-387,50,3
+01-random-392,55,3
+01-random-420,47,4
+01-random-462,47,4
+01-random-500,58,4
+01-random-86,50,4

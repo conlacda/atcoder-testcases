@@ -1,0 +1,10 @@
+00-sample-00,2,2
+00-sample-01,2,2
+00-sample-02,4,3
+01-handmade-00,2,2
+01-handmade-01,2,2
+01-handmade-02,2,2
+01-handmade-03,3,3
+01-handmade-04,3,3
+01-handmade-05,3,3
+01-handmade-06,3,3
