@@ -1,0 +1,12 @@
+extreme_00,382113,6
+handmade_00,15,2
+handmade_01,15,2
+random_00,648070,6
+random_01,647993,6
+random_02,648146,5
+random_03,5067,4
+random_04,5077,4
+random_05,5072,3
+sample_01,10,2
+sample_02,10,2
+sample_03,41,2
