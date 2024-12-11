@@ -1,0 +1,14 @@
+random_01,38,21
+random_02,14,5
+random_03,33,31
+random_04,35,33
+random_05,55,32
+random_06,5,1
+random_07,34,32
+random_08,3,1
+random_09,101,99
+random_10,101,1
+random_11,101,99
+sample_01,25,15
+sample_02,10,1
+sample_03,6,4
