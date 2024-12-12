@@ -1,0 +1,13 @@
+00_sample_00,8,8
+00_sample_01,8,8
+00_sample_02,2,2
+01_random_00,50,50
+01_random_01,98,98
+01_random_02,10,10
+01_random_03,32,32
+01_random_04,88,88
+01_random_05,70,70
+01_random_06,84,84
+01_random_07,40,40
+01_random_08,34,34
+01_random_09,52,52
