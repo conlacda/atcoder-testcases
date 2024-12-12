@@ -1,0 +1,15 @@
+extreme_00,4002010,5
+handmade_00,6,5
+random_00,4002010,10
+random_01,4002010,10
+random_02,4002010,5
+random_03,4002010,5
+random_04,103007,5
+random_05,2008,5
+random_06,4007,5
+random_07,120443,5
+random_08,2195535,5
+random_09,450705,10
+sample_01,16,10
+sample_02,14,5
+sample_03,6,5
