@@ -1,0 +1,15 @@
+00-Sample-00,14,2
+00-Sample-01,16,2
+01-Handmade-00,29608,2
+01-Handmade-01,8,2
+01-Handmade-02,500,2
+02-SmallRandom-00,293,2
+02-SmallRandom-01,16,2
+02-SmallRandom-02,1028,2
+02-SmallRandom-03,90,2
+02-SmallRandom-04,297,2
+03-LargeRandom-00,6075,3
+03-LargeRandom-01,240,3
+03-LargeRandom-02,814,3
+03-LargeRandom-03,240,3
+03-LargeRandom-04,459,3

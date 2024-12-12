@@ -1,0 +1,13 @@
+Sample_01,3,5
+Sample_02,2,5
+bmin_01,10,7
+rand_01,10,10
+rand_02,10,10
+rand_03,10,10
+rand_04,10,10
+rand_05,10,10
+small_01,10,8
+small_02,10,8
+small_03,10,10
+small_04,10,7
+small_05,8,6
