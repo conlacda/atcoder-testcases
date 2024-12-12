@@ -1,0 +1,13 @@
+00_sample_00,40,4
+00_sample_01,26,3
+00_sample_02,26,3
+00_sample_03,40,4
+01_distinct_00,2204,4
+01_distinct_01,2204,4
+02_except_one_00,2204,3
+02_except_one_01,2204,3
+02_except_one_02,2204,3
+03_same_00,2204,3
+04_hack_00,10,4
+04_hack_01,2204,4
+04_hack_02,2204,3
