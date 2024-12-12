@@ -1,0 +1,16 @@
+00_sample_00,14,3
+00_sample_01,16,4
+00_sample_02,14,3
+01_random_00,13,3
+01_random_01,13,3
+01_random_02,13,3
+01_random_03,14,2
+01_random_04,14,2
+01_random_05,15,3
+01_random_06,15,3
+01_random_07,13,2
+01_random_08,14,3
+01_random_09,10,2
+01_random_10,13,3
+01_random_11,15,3
+01_random_12,14,3
