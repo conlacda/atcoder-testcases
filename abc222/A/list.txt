@@ -1,0 +1,10 @@
+hand_01,2,5
+random_01,2,5
+random_02,3,5
+random_03,4,5
+random_04,5,5
+random_05,5,5
+random_06,4,5
+sample_01,4,5
+sample_02,5,5
+sample_03,2,5
