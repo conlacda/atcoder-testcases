@@ -1,0 +1,12 @@
+00_sample_00,14,2
+00_sample_01,14,2
+00_sample_02,54,2
+01_xy_small_00,2554,5
+02_xy_small_random_00,2828,5
+02_xy_small_random_01,2934,6
+02_xy_small_random_02,3449,6
+02_xy_small_random_03,3714,7
+03_random_00,9902,7
+03_random_01,9887,7
+04_line_00,8975,2
+04_line_01,9346,2
