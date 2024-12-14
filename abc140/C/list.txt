@@ -1,0 +1,15 @@
+handmade03,4,2
+handmade04,199,2
+handmade05,202,2
+handmade06,697,9
+handmade07,202,2
+handmade08,589,8
+handmade09,589,8
+random10,434,8
+random11,406,8
+random12,369,8
+random13,586,8
+random14,588,8
+sample00,6,2
+sample01,4,2
+sample02,17,3
