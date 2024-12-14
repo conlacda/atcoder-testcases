@@ -1,0 +1,15 @@
+00-sample-00,34,4
+00-sample-01,125,7
+00-sample-02,17,2
+01-handmade-03,127,6
+01-handmade-04,658,8
+01-handmade-05,551,8
+01-handmade-06,377,4
+02-random-07,241,7
+02-random-08,167,3
+02-random-09,365,7
+02-random-10,247,3
+02-random-11,542,7
+02-random-12,407,3
+02-random-13,610,7
+02-random-14,420,3
