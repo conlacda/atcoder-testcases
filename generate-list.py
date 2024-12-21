@@ -7,6 +7,19 @@ contest = sys.argv[1]
 
 problems: List[str] = [p for p in os.listdir(f"./{contest}")]
 
+for problem in problems:
+    for path, subdirs, fileNames in os.walk(f"./{contest}/{problem}/in"):
+        for fileName in fileNames:
+            if '.' in fileName:
+                fileNameWithoutExtension = fileName.split('.')[0]
+                os.rename(f"{path}/{fileName}", f"{path}/{fileNameWithoutExtension}")
+    
+    for path, subdirs, fileNames in os.walk(f"./{contest}/{problem}/out"):
+        for fileName in fileNames:
+            if '.' in fileName:
+                fileNameWithoutExtension = fileName.split('.')[0]
+                os.rename(f"{path}/{fileName}", f"{path}/{fileNameWithoutExtension}")
+
 # Rename file
 for problem in problems:
     # input directory

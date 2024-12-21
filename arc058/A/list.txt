@@ -1,0 +1,5 @@
+subtask0_sample_01,6,4
+subtask0_sample_02,6,3
+subtask1_X_575,6,4
+subtask1_X_577,6,3
+subtask1_X_755,6,4

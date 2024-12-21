@@ -1,0 +1,10 @@
+subtask0_sample_01,16,10
+subtask1_01,3394,3312
+subtask1_02,7539,7453
+subtask1_03,215,169
+subtask1_04,3156,3061
+subtask1_05,33,28
+subtask1_06,3828,3774
+subtask1_07,10108,10001
+subtask1_08,206,101
+subtask1_09,6,2
