@@ -1,0 +1,13 @@
+sample_01,7,4
+sample_02,7,3
+sample_03,5,3
+testcase_01,7,4
+testcase_02,7,4
+testcase_03,7,4
+testcase_04,7,4
+testcase_05,7,4
+testcase_06,7,4
+testcase_07,6,3
+testcase_08,8,4
+testcase_09,6,3
+testcase_10,7,3
